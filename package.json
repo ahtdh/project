@@ -1,0 +1,18 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohammad Oftadeh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-v4-rtl": "^4.4.1-1",
+    "i": "^0.3.6",
+    "jquery": "^3.4.1",
+    "npm": "^6.13.4"
+  }
+}
